@@ -5,3 +5,5 @@ theme = 'hugo-book'
 
 [markup.goldmark.renderer]
   unsafe = true
+
+# A conflicting comment
