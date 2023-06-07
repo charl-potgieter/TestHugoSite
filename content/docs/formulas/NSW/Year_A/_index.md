@@ -1,6 +1,3 @@
 ---
 bookCollapseSection: true
 ---
-
-
-# Blah
